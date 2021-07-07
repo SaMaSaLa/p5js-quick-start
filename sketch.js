@@ -1,7 +1,8 @@
 noStroke();
 
 function setup() {
-  createCanvas(1500, 675);
+  // createCanvas(1500, 675);
+  createCanvas(400, 400);
   background(200, 200, 200);
 }
 
